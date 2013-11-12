@@ -1,0 +1,46 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the normal and widescreen layouts. You may override these styles in the normal 
+ *  and widescreen CSS files as appropriate. */
+ 
+ #region-user-second {
+	margin-top:85px;
+}
+
+#search-block-form .form-item-search-block-form {
+	width:100px;
+}
+
+#search-block-form #edit-submit,
+#search-block-form #edit-submit--2 {
+	margin:.5em;
+}
+
+#zone-content {
+	background: #FFF;
+}
+
+.front .pane-node-images .view-content {
+	overflow:hidden;
+}
+
+.front .view-node-images .views-field-body .field-content {
+	width:100%;
+}
+
+.front .view-node-images .views-field-body .field-content p {
+	width:50%;
+}
+
+.node-type-topic panels-flexible-region,
+.view-id-node_images {
+	overflow:hidden;
+}
+
+.page-grownc-themes table td {
+	max-width:225px;
+}
+
+.logo-img {
+	margin-top:2.75em;
+}

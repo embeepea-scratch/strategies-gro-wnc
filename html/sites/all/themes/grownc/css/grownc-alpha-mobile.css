@@ -1,0 +1,68 @@
+/**
+ * This will display them grid elements as block rather than inline for mobile browsers 
+ * (essentially anything smaller than the narrow grid size, and media query declares. 
+ */
+
+.responsive-layout-mobile #search-block-form #edit-submit {
+	margin:.5em;
+}
+
+.responsive-layout-mobile .block-menu-topic-areas {
+	margin:1em;
+}
+
+.responsive-layout-mobile .block-updates-and-news-block,
+.responsive-layout-mobile .block-videos-block,
+.responsive-layout-mobile .block-switch-user,
+.responsive-layout-mobile .block-highlights-block-1,
+.responsive-layout-mobile #section-footer {
+	margin:1em;
+	background:#fff;
+	padding:.5em;
+	border-radius:15px;
+}
+
+.responsive-layout-mobile .block-videos-block {
+	text-align:center;
+}
+
+.responsive-layout-mobile .block-updates-and-news-block h2.block-title {
+	margin-top:0;
+}
+
+.responsive-layout-mobile #region-content {
+	background:#fff;
+	padding:1em;
+}
+
+.responsive-layout-mobile #zone-content {
+	background: none;
+	margin-bottom:-1.2em;
+}
+
+.front .pane-node-images .view-content {
+	overflow:hidden;
+}
+
+.responsive-layout-mobile .view-node-images .views-field-body .field-content {
+	width:100%;
+}
+
+.responsive-layout-mobile .view-node-images .views-field-body .field-content p {
+	max-width:420px;
+}
+ 	
+
+.responsive-layout-mobile #region-footer-second {
+	text-align:left;
+}
+
+.responsive-layout-mobile #zone-footer {
+	padding:1em;
+}
+
+
+.responsive-layout-mobile .view-id-themes table td {
+	max-width:275px;
+	overflow:hidden;
+}

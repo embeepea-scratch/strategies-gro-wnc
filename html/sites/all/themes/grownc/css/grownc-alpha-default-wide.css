@@ -1,0 +1,36 @@
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+
+#region-user-second {
+	margin-top:85px;
+}
+
+#zone-content {
+	background: #FFF;
+}
+
+.front .view-node-images .views-field-body .field-content {
+	width:100%;
+}
+
+.front .view-node-images .views-field-body .field-content p {
+	width:95%;
+}
+
+.view-front-page-feature-blocks .views-row {
+	width:30%;
+	display:inline-block;
+	position:relative;
+	float:left;
+}
+
+.page-grownc-themes table td {
+	max-width:400px;
+}
+
+.logo-img {
+	margin-top:2.75em;
+}
+
+.block-4 {
+	margin-left:15em;
+}
